@@ -3,9 +3,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelokkkj/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-melo-972baa1b3/)
 
+<div align="center">
+    
 ![marcelokkkj GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelokkkj&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelokkkj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ### Tecnologias que eu uso no meu dia!
 
